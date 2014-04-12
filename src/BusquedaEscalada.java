@@ -5,6 +5,7 @@ import java.io.*;
 class BusquedaEscalada {
   final int MAX = 100;
   // Este Array contiene la informacion de los vuelos
+  //Soy Eliana y escribi esto
   InfoVuelos vuelos[] = new InfoVuelos[MAX];
   
   int numVuelos = 0; // Numero de entradas en el Array de vuelos
